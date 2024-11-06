@@ -4,6 +4,7 @@
 
 ### [11월 첫째주, 1주차] : 웹 응용
 [24.11.05 JWT](https://github.com/100-hours-a-week/urung-til/blob/main/Nov/2024-11-06.md)
+<br>
 [24.11.05 Cookie, Session, Polling](https://github.com/100-hours-a-week/urung-til/blob/main/Nov/2024-11-05.md)
 
 ### [10월 넷째주, 1주차] : html, css
