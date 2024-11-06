@@ -27,12 +27,20 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Nov/2024-11-06.md",
+=======
+                "file": "README.md",
+>>>>>>> c832082 ([DOCS] 24-11-06 TIL)
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "2024-11-06"
+=======
+              "title": "README"
+>>>>>>> c832082 ([DOCS] 24-11-06 TIL)
             }
           }
         ],
@@ -179,7 +187,10 @@
   },
   "active": "29f0edadda0febb0",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "README.md",
+=======
+>>>>>>> c832082 ([DOCS] 24-11-06 TIL)
     "Nov/2024-11-06.md",
     "Nov/2024-11-05.md",
     "Nov/2024-11-01.md",
