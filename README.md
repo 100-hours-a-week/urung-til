@@ -3,6 +3,8 @@
 ## 오늘 내가 배운 것들(Today I Learned)
 
 ### [11월 첫째주, 1주차] : 웹 응용
+[24.11.08 React](https://github.com/100-hours-a-week/urung-til/blob/main/Nov/2024-11-08.md)
+<br>
 [24.11.05 JWT](https://github.com/100-hours-a-week/urung-til/blob/main/Nov/2024-11-06.md)
 <br>
 [24.11.05 Cookie, Session, Polling](https://github.com/100-hours-a-week/urung-til/blob/main/Nov/2024-11-05.md)
