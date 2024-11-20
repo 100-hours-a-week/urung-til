@@ -2,6 +2,8 @@
 
 ## 오늘 내가 배운 것들(Today I Learned)
 
+### [11월 3주차] : Database
+[24.11.20 DB](https://github.com/100-hours-a-week/urung-til/blob/main/Nov/2024-11-20.md)
 ### [11월 2주차] : React.js
 [24.11.14 React](https://github.com/100-hours-a-week/urung-til/blob/main/Nov/2024-11-14.md)
 <br>
