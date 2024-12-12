@@ -2,6 +2,10 @@
 
 ## 오늘 내가 배운 것들(Today I Learned)
 
+### [12월 2주차] : Docker
+[24.12.11 Docker]
+### [12월 1주차]: Network
+
 ### [11월 3주차] : Database
 [24.11.20 DB](https://github.com/100-hours-a-week/urung-til/blob/main/Nov/2024-11-20.md)
 ### [11월 2주차] : React.js
