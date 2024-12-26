@@ -2,7 +2,9 @@
 
 ## 오늘 내가 배운 것들(Today I Learned)
 
-### [12월 2주차] : Docker
+### [12월] : Docker & k8s
+[24.12.26 k8s](https://github.com/100-hours-a-week/urung-til/blob/main/Dec/2024-12-26.md)
+[24.12.21 Docker-Compose](https://github.com/100-hours-a-week/urung-til/blob/main/Dec/2024-12-21.md)
 [24.12.11 Docker](https://github.com/100-hours-a-week/urung-til/blob/main/Dec/2024-12-11.md)
 ### [12월 1주차]: Network
 
